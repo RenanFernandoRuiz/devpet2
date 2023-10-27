@@ -6,16 +6,13 @@
 }
 
 .animais h3 {
-    color: #fff;
+    /* color: #fff;
     font-family: Rubik;
     font-size: 28px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding-left: 40px;
-}
-
-.animais h2 {
+    padding-left: 40px; */
     color: white;
     font-family:  Bold;
     font-size: 30px;
@@ -29,6 +26,21 @@
     font-weight: 700;
     line-height: normal;
 }
+
+/* .animais h2 {
+    color: white;
+    font-family:  Bold;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: white;
+    font-family: Rubik;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+} */
 
 .container {
     display: flex;

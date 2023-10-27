@@ -12,8 +12,9 @@ function Animais() {
                 <br />
                 <br />
                 <h3>Nutrientes Caninos : </h3>
-                <br />
-                <h2>-25% Desconto</h2>
+                <br/>
+                {/* <br />
+                <h2>-25% Desconto</h2> */}
 
 
                 
