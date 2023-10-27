@@ -6,7 +6,7 @@ function Footer() {
     return (
         <footer className={styles.footer}>
             <h2>LittlePetshop &copy; 2023</h2>
-           
+
         </footer>
     );
 }

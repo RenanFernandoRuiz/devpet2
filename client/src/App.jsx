@@ -2,13 +2,13 @@ import Animais from "./components/Animais/Animais";
 import Footer from "./components/Footer/Footer";
 import Header from "./components/Header/Header";
 
-function App(){
-  return(
+function App() {
+  return (
     <>
-    <Header/>
-    <Animais/>
-    <Footer/>
+      <Header />
+      <Animais />
+      <Footer />
     </>
   )
 }
- export default App;
+export default App;
